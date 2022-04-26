@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
+Template Name: KnightOne
+Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
